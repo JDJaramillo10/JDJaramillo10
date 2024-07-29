@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
+Soy un estudiante de Ingeniería en Ciencias de la Computación, oriundo de Ecuador 🇪🇨. Me gusta programar y el desarrollo de software. Tengo conocimientos en programación con java, python, un poco de C#, 
+bases de datos como MS SQL Server, PostgreSQL y MySQL.
+
+- 🌱 Estoy aprendiendo: Spring Boot, .NET
+- 👯 Busco colaborar en proyectos de desarrollo de software en java
+- 🤔 También me gustaría ganar experiencia en el ambito laboral en la parte de programación
+- 📫 Como contactarme: <juan.jaramillo@uees.edu.ec>
+- 😄 Intereses: Inteligencia Artificial, Desarrollo web, Análisis de Datos
+- ⚡ Extracurricular: Me gusta la música, el fútbol, la cocina, y de vez en cuando leer, ver series, ver películas y jugar videojuegos
+  
 <!--
 **JDJaramillo10/JDJaramillo10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
