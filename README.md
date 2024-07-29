@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Soy un estudiante de Ingeniería en Ciencias de la Computación, oriundo de Ecuador 🇪🇨. Me gusta programar y el desarrollo de software. Tengo conocimientos en programación con java, python, un poco de C#, 
-bases de datos como MS SQL Server, PostgreSQL y MySQL.
+bases de datos como MS SQL Server, PostgreSQL y MySQL. Hablo español nativo y nivel B2 de inglés
 
 - 🌱 Estoy aprendiendo: Spring Boot, .NET
 - 👯 Busco colaborar en proyectos de desarrollo de software en java
